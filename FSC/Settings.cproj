@@ -1,0 +1,8 @@
+/* This handles UI accordingly to the menu
+- Detect current version
+#import version ID
+#import UI from cproj
+
+>replace private.room:Mod Keybinds
+>If Clicked / Show (Keybind 1-5)
+>Available options / Trigger L:Trigger R: Grip L: Grip R: Button A:
