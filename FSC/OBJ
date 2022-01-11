@@ -1,1 +1,15 @@
+detect (keybind settings) pressed
+if (keybind settings) = (keybind list) / true / false
+
+/*This determines the game name and replaces the placeholder with the game name needed
+- Detect FlyingSquirrelChase
+- Load Handling Manager
+- Dispose of Waste
+
+/*This keeps track of spawning a certain OBJ
+(Keybind 1) JMANCURLY Head
+(Keybind 2) Soda Can
+(Keybind 3/Hold to change size) Cube
+(Keybind 4/Hold to change size) Sphere
+(Keybind 5) 0 Gravity rope PHYSICAL COLLIDERS
 
